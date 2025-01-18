@@ -24,7 +24,7 @@ int main()
             initialNum = true;
         }
 
-        switch (userChoice) 
+        switch (userChoice)
         {
 
         case 1:
